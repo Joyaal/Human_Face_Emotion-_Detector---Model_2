@@ -5,7 +5,8 @@ A simple ML program to detect the emotion in the human faces. This program will 
 - GUI program file
 - haarcascade_frontalface_default.xml
 - model.weights.h5
-- model_a.json You may need to keep all these files in a single directory.
+- model_a.json
+You may need to keep all these files in a single directory.
 
 Steps:
 1. Download all files and arrange within a single directory in your system. (Also extract the dataset before use)
